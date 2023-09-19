@@ -1,2 +1,1 @@
-- Hassan
-- CS Student at Trinity College Dublin
+MSc student at Trinity College Dublin
